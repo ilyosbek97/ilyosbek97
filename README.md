@@ -110,10 +110,9 @@ Hello! I'm [Ilyosbek(일리), an AI enthusiast and innovator with a passion for 
 - 📄 **Research on Smart Alarm System** (Conference Paper)  
   [![Conference](https://img.shields.io/badge/Conference-KMMS-FFD700)](https://kmms.or.kr/)
 
----
 
 *For a full list, visit my [Google Scholar](https://scholar.google.com/citations?user=qm7GpqUAAAAJ&hl=en)*  
-*Updated: March 08, 2025*
+
 
 ---
 
@@ -144,9 +143,6 @@ Hello! I'm [Ilyosbek(일리), an AI enthusiast and innovator with a passion for 
 *Organized by: National Research Foundation of Korea*  
 - 📱 Engineered a technique to enhance data transmission efficiency in mobile networks.  
 
----
-
-*Updated: March 08, 2025*
 
 
 ---
@@ -155,8 +151,9 @@ Hello! I'm [Ilyosbek(일리), an AI enthusiast and innovator with a passion for 
 
 - **IoT & AI Researcher** @ Pukyong National University *(2022 - Present)*
 - **Purchasing Team Leader** @ Global Tech *(2024 - Present)*
-- **HR Manager** @ Busan Muslim Students Association *(2024 - Present)*
 - **President & Finance Manager** @ Busan Uzbek Students Association *(2024)*
+- **HR Manager** @ Busan Muslim Students Association *(2024 - Present)*
+- **Interpreter** @ Busan International Exchange Foundation *(2018 - 2019)*
 
 ---
 
@@ -181,7 +178,3 @@ Hello! I'm [Ilyosbek(일리), an AI enthusiast and innovator with a passion for 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ilyosbek-numonov)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/ilyos-numon)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Research-green?style=for-the-badge&logo=googlescholar)](https://scholar.google.com/citations?user=IlyosbekNumonov)
-
----
-
-🎯 *"Innovating today for a smarter tomorrow!"* 🚀
