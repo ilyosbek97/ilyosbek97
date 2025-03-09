@@ -60,39 +60,21 @@ Hello! I'm an AI enthusiast and innovator with a passion for technology and rese
 - 📄 **UAV Collaborative Path Planning Optimization Strategy for Forest Patrol** (Conf.) [![SKIOTS](https://img.shields.io/badge/SKIOTS-FFD700)](https://sites.google.com/view/conferenceskiots/home)  
 - 📄 **Research on Smart Alarm System** (Conf.) [![KMMS](https://img.shields.io/badge/KMMS-FFD700)](https://kmms.or.kr/)  
 
-*Full list: [Google Scholar](https://scholar.google.com/citations?user=qm7GpqUAAAAJ&hl=en) | Updated: March 08, 2025*
+*Full list: [Google Scholar](https://scholar.google.com/citations?user=qm7GpqUAAAAJ&hl=en) 
 
 
 ---
-
 ## 💡 Projects
-
-### AI-based Energy Management System  
-**04/2024 - 11/2024** | *Future Internet LAB*  
-*Organized by: Busan Techno Park*  
-- 🛠️ Developed an energy usage optimization and peak management solution for offices and factories using AI and big data.  
-
-### Smart Alarm  
-**01/2024 - 03/2024** | *Future Internet LAB*  
-*Organized by: Pukyong National University*  
-- ⏰ Created a real-time customized alarm solution leveraging water surface detection and automation technology.  
-
-### Smart Navigational Aid Monitoring System  
-**10/2023 - 12/2023** | *Future Internet LAB*  
-*Organized by: Dongwon Academic Research Foundation*  
-- 📡 Built a smart system for real-time monitoring of navigational aids using AI and IoT.  
-
-### IoT Nutrient Solution Control for Hydroponics  
-**10/2022 - 01/2023** | *Future Internet LAB*  
-*Organized by: National Research Foundation of Korea*  
-- 🌱 Designed a smart agricultural system to automatically control nutrient solutions for hydroponics using IoT.  
-
-### Mobile Content Delivery Network  
-**06/2022 - 08/2022** | *Future Internet LAB*  
-*Organized by: National Research Foundation of Korea*  
-- 📱 Engineered a technique to enhance data transmission efficiency in mobile networks.  
-
-
+- **AI-based Energy Management System** (04/2024 - 11/2024) *Future Internet LAB, Busan Techno Park*  
+  🛠️ AI and big data solution for energy optimization in offices/factories.  
+- **Smart Alarm** (01/2024 - 03/2024) *Future Internet LAB, Pukyong National University*  
+  ⏰ Real-time alarm with water surface detection and automation.  
+- **Smart Navigational Aid Monitoring System** (10/2023 - 12/2023) *Future Internet LAB, Dongwon Academic Research Foundation*  
+  📡 Real-time navigational aid monitoring with AI and IoT.  
+- **IoT Nutrient Solution Control for Hydroponics** (10/2022 - 01/2023) *Future Internet LAB, National Research Foundation of Korea*  
+  🌱 IoT-based smart nutrient control for hydroponics.  
+- **Mobile Content Delivery Network** (06/2022 - 08/2022) *Future Internet LAB, National Research Foundation of Korea*  
+  📱 Technique to boost mobile network data efficiency.  
 
 ---
 
