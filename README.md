@@ -46,44 +46,45 @@ Hello! I'm [Your Name], an AI enthusiast and innovator with a passion for techno
 
 ## 🛠️ Tech Stack
 ### ⚙️ General Programming
-- 🐍 **[Python](https://www.python.org/)** - My go-to for versatility and power  
-- 🌐 **[C](https://en.wikipedia.org/wiki/C_(programming_language))** - Low-level mastery  
-- ➕ **[C++](https://isocpp.org/)** - Performance-driven solutions  
+- [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) - Versatile and powerful  
+- [![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) - Low-level control  
+- [![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/) - High-performance coding  
 
 ### 🌐 IoT Systems
-- 🍓 **[Raspberry Pi](https://www.raspberrypi.org/)** - Compact computing for IoT  
-- 🔌 **[Arduino](https://www.arduino.cc/)** - Microcontroller magic  
-- 📡 **LTE-M** - Cellular connectivity for IoT  
-- 📨 **[MQTT](https://mqtt.org/)** - Lightweight messaging protocol  
-- 📶 **Bluetooth** - Short-range wireless wonders  
+- [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.org/) - IoT prototyping  
+- [![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)](https://www.arduino.cc/) - Microcontroller projects  
+- ![LTE-M](https://img.shields.io/badge/LTE--M-4G-blue) - Cellular IoT connectivity  
+- [![MQTT](https://img.shields.io/badge/MQTT-660066?logo=mqtt&logoColor=white)](https://mqtt.org/) - Lightweight messaging  
+- [![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?logo=bluetooth&logoColor=white)](https://www.bluetooth.com/) - Wireless communication  
 
 ### 🤖 AI/ML/DL
-- ⏳ **LSTM** - Long Short-Term Memory for sequences  
-- 📈 **ARIMA, SARIMA, Prophet** - Time series forecasting  
-- ⏱️ **Time Series Data Analysis** - Unlocking temporal insights  
-- 📊 **Statistical Analysis** - Data-driven decision making  
-- ⚙️ **AutoML** - Automating machine learning workflows  
+- ![LSTM](https://img.shields.io/badge/LSTM-Deep%20Learning-orange) - Sequence modeling  
+- ![ARIMA](https://img.shields.io/badge/ARIMA-Time%20Series-blue) | ![SARIMA](https://img.shields.io/badge/SARIMA-Time%20Series-blue) | ![Prophet](https://img.shields.io/badge/Prophet-Forecasting-00A1D6) - Time series forecasting  
+- ![Time Series](https://img.shields.io/badge/Time%20Series-Analysis-007ACC) - Temporal data insights  
+- ![Stats](https://img.shields.io/badge/Statistical%20Analysis-228B22) - Data-driven decisions  
+- ![AutoML](https://img.shields.io/badge/AutoML-Automation-FF6F61) - Streamlined ML workflows  
 
 ### 📊 Data Analysis
-- 🗄️ **[MongoDB](https://www.mongodb.com/)** - NoSQL database for flexibility  
-- 📉 **[Matplotlib](https://matplotlib.org/)** - Classic data visualization  
-- 🎨 **[Seaborn](https://seaborn.pydata.org/)** - Beautiful statistical plots  
-- ✨ **[Plotly](https://plotly.com/)** - Interactive graphing  
-- 🐼 **[Pandas](https://pandas.pydata.org/)** - Data manipulation powerhouse  
-- 🔢 **[NumPy](https://numpy.org/)** - Numerical computing backbone  
-- 🧬 **[SciPy](https://scipy.org/)** - Scientific computing toolkit  
+- [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/) - NoSQL database  
+- [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)](https://matplotlib.org/) - Data visualization  
+- [![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=python&logoColor=white)](https://seaborn.pydata.org/) - Statistical plots  
+- [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)](https://plotly.com/) - Interactive charts  
+- [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/) - Data manipulation  
+- [![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org/) - Numerical computing  
+- [![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)](https://scipy.org/) - Scientific tools  
 
 ### 🌍 Web & API
-- 🚀 **[FastAPI](https://fastapi.tiangolo.com/)** - High-performance APIs  
-- 🍶 **[Flask](https://flask.palletsprojects.com/)** - Lightweight web frameworks  
-- ☁️ **[AWS](https://aws.amazon.com/)** - Cloud computing excellence  
+- [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) - Modern API development  
+- [![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)](https://flask.palletsprojects.com/) - Lightweight web apps  
+- [![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) - Cloud solutions  
 
 ### 🔬 R&D
-- 📝 **Research** - Exploring the unknown  
-- 🛠️ **Develop** - Building innovative solutions  
-- 🔍 **Analyze** - Turning data into insights  
+- ![Research](https://img.shields.io/badge/Research-Innovation-FFD700) - Exploring new frontiers  
+- ![Develop](https://img.shields.io/badge/Develop-Build-32CD32) - Crafting solutions  
+- ![Analyze](https://img.shields.io/badge/Analyze-Insights-4682B4) - Data to decisions  
 
 ---
+
 ---
 
 ## 🔬 Research & Publications
