@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # 🚀 ILYOSBEK NUMONOV (일리)
@@ -18,7 +17,6 @@
 + 🔥 8+ Research Publications (KCI/SCIE)
 + 🌍 TOPIK Level 6 | Uzbek-Korean-English Polyglot
 + 🏆 Award-Winning Innovator
-```
 
 ## 🛠️ Tech Stack
 
