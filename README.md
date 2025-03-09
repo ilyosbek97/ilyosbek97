@@ -32,8 +32,8 @@ Hello! I'm [Your Name], an AI enthusiast and innovator with a passion for techno
 
 - 🌍 **Multilingual Communicator**  
   - Native: Uzbek  
-  - Fluent: Korean (**TOPIK Level 6**) [TOPIK Info](https://www.topik.go.kr/)  
-  - Intermediate: English  
+  - Fluent: Korean [(**TOPIK Level 6**](https://www.topik.go.kr/)  
+  - Intermediate: English  (**TOEIC**) [TOEIC Info](https://www.toeic.co.kr/)  
 
 - 🏆 **Award-Winning Innovator**  
   Recognized for contributions in AI & IoT  
