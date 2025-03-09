@@ -12,7 +12,6 @@
 </div>
 
 ## 🌟 About Me
-```diff
 + 🎓 MS in AI Convergence Engineering @ PKNU (4.4/4.5)
 + 🔥 8+ Research Publications (KCI/SCIE)
 + 🌍 TOPIK Level 6 | Uzbek-Korean-English Polyglot
@@ -40,21 +39,19 @@
 <details>
 <summary><b>⚡ AI Energy Management System (2024)</b></summary>
 
-```markdown
 - 🏭 Industrial Energy Optimization: Reduced peak loads by 40%
 - 💡 Real-time Analytics: IoT sensor network integration
 - 🏆 Recognized by Korean Research Foundation
-```
+
 </details>
 
 <details>
 <summary><b>🌱 Smart Hydroponics System (2023)</b></summary>
 
-```markdown
 - 🌿 98% Crop Yield Improvement: Automated nutrient control
 - 📶 LTE-M Enabled Remote Monitoring
 - 📈 Featured in KCI Journal (Lead Author)
-```
+
 </details>
 
 ## 📚 Research Highlights
@@ -71,19 +68,17 @@
 
 ## 🌍 Global Leadership
 
-```diff
 + 🇰🇷 President, Busan Uzbek Students Association
 + 🤝 HR Manager, Busan Muslim Students Association
 + 🌐 Legal Interpreter (Korean-Uzbek)
-```
+
 
 ## 🏆 Achievement Wall
 
-```markdown
 - 🥇 2024 Embassy Recognition Award (Uzbekistan)
 - 🏅 TOPIK Level 6 (Korean Mastery)
 - 💡 2022 Software Innovation Award
-```
+
 
 ## 🚀 Let's Connect!
 
