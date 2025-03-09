@@ -8,7 +8,7 @@
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Research-green?style=for-the-badge&logo=googlescholar)](https://scholar.google.com/citations?user=IlyosbekNumonov)
 
 ![Profile Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=50&lines=Building+Intelligent+Systems;Innovating+for+a+Smarter+Future)
-
+![Profile Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=50&lines=Code+works,+don’t+touch.;Bugs+breed+in+silence.;Coffee+fuels+my+commits.;Documentation?+What’s+that+again?;LLM+saves+me.;Indentation+broke+my+soul.;Git+blame,+not+me.;Works+locally,+ship+it!;Deadline?+Rewrite+in+chaos.;Error+404:+Sanity+gone.)
 </div>
 
 ---
