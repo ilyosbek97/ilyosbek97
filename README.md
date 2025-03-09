@@ -5,7 +5,7 @@
 
 [![Email](https://img.shields.io/badge/Email-ilyosbek.uzb@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilyosbek.uzb@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ilyosbek-numonov)
-[![GitHub](https://img.shields.io/badge/GitHub-ilyos_numon-181717?style=for-the-badge&logo=github)](https://github.com/ilyos-numon)
+[![GitHub](https://img.shields.io/badge/GitHub-ilyos_numon-181717?style=for-the-badge&logo=github)](https://github.com/ilyosbek97)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Research-green?style=for-the-badge&logo=googlescholar)](https://scholar.google.com/citations?user=IlyosbekNumonov)
 [![Visitors](https://komarev.com/ghpvc/?username=ilyosbek-numonov&color=orange&style=for-the-badge)](https://github.com/ilyosbek-numonov)
 
