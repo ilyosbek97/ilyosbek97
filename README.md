@@ -87,12 +87,34 @@ Hello! I'm [Ilyosbek(일리), an AI enthusiast and innovator with a passion for 
 ---
 
 ## 🔬 Research & Publications
-📖 [Google Scholar Profile](https://scholar.google.com/citations?user=IlyosbekNumonov)
+- 📄 **Development of AI-based Energy Management System for Power Saving in Factories** (KCI)  
+  [![KCI](https://img.shields.io/badge/KCI-Indexed-007ACC)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003153842)
 
-- **AI-based Energy Management System for Factory Power Reduction** (KCI, 2024)  
-- **Optimizing Models & Data Denoising for Power Load Forecasting** (SCIE, 2024)  
-- **IoT-based Smart Alarm System** (KCI, 2024)  
-- **Smart Hydroponic Nutrient Control System** (KCI, 2023)  
+- 📄 **Optimizing Models and Data Denoising Algorithms for Power Load Forecasting** (SCIE)  
+  [![SCIE](https://img.shields.io/badge/SCIE-Indexed-228B22)](https://www.mdpi.com/1996-1073/17/21/5513)
+
+- 📄 **IoT-based Smart Alarm System** (KCI)  
+  [![KCI](https://img.shields.io/badge/KCI-Indexed-007ACC)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003112168)
+
+- 📄 **Implementation of Hydroponic System Based on Internet of Things** (KCI)  
+  [![KCI](https://img.shields.io/badge/KCI-Indexed-007ACC)](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002992004)
+
+- 📄 **Research on Artificial Intelligence-based Factory Energy Management System** (Conference Paper)  
+  [![Conference](https://img.shields.io/badge/Conference-SKIOTS-FFD700)](https://sites.google.com/view/conferenceskiots/home)
+
+- 📄 **Comparative Analysis of Fine-Tuned and Non-Fine-Tuned Language Models for Mental Health Monitoring on IoT Wearable Devices** (Conference Paper)  
+  [![Conference](https://img.shields.io/badge/Conference-SKIOTS-FFD700)](https://sites.google.com/view/conferenceskiots/home)
+
+- 📄 **UAV Collaborative Path Planning Optimization Strategy for Forest Patrol** (Conference Paper)  
+  [![Conference](https://img.shields.io/badge/Conference-SKIOTS-FFD700)](https://sites.google.com/view/conferenceskiots/home)
+
+- 📄 **Research on Smart Alarm System** (Conference Paper)  
+  [![Conference](https://img.shields.io/badge/Conference-KMMS-FFD700)](https://kmms.or.kr/)
+
+---
+
+*For a full list, visit my [Google Scholar](https://scholar.google.com/citations?user=qm7GpqUAAAAJ&hl=en)*  
+*Updated: March 08, 2025*
 
 ---
 
