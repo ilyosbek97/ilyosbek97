@@ -3,11 +3,9 @@
 # 🚀 ILYOSBEK NUMONOV (일리)
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> AI & IoT Engineer | Researcher | ICT Manager
 
-[![Email](https://img.shields.io/badge/Email-ilyosbek.uzb@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilyosbek.uzb@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ilyosbek-numonov)
 [![GitHub](https://img.shields.io/badge/GitHub-ilyos_numon-181717?style=for-the-badge&logo=github)](https://github.com/ilyosbek97)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Research-green?style=for-the-badge&logo=googlescholar)](https://scholar.google.com/citations?user=IlyosbekNumonov)
-[![Visitors](https://komarev.com/ghpvc/?username=ilyosbek-numonov&color=orange&style=for-the-badge)](https://github.com/ilyosbek97)
 
 ![Profile Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=50&lines=Building+Intelligent+Systems;Innovating+for+a+Smarter+Future)
 
@@ -16,7 +14,7 @@
 ---
 ## 🌟 About Me
 
-Hello! I'm [Your Name], an AI enthusiast and innovator with a passion for technology and research. Here's a bit about me:
+Hello! I'm [Ilyosbek(일리)], an AI enthusiast and innovator with a passion for technology and research. Here's a bit about me:
 
 - 🎓 **M.S. in AI Convergence Engineering**  
   Pukyong National University (GPA: 4.4/4.5)  
