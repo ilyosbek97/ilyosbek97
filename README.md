@@ -82,7 +82,6 @@ Hello! I'm [Ilyosbek(일리), an AI enthusiast and innovator with a passion for 
 - ![Research](https://img.shields.io/badge/Research-Innovation-FFD700)
 - ![Develop](https://img.shields.io/badge/Develop-Build-32CD32)
 - ![Analyze](https://img.shields.io/badge/Analyze-Insights-4682B4)
----
 
 ---
 
@@ -120,12 +119,35 @@ Hello! I'm [Ilyosbek(일리), an AI enthusiast and innovator with a passion for 
 
 ## 💡 Projects
 
-| Project | Description |
-|---------|------------|
-| **AI-based Energy Management System** | AI-powered optimization for energy savings in industries |
-| **Smart Alarm System** | Personalized smart alarms with IoT integration |
-| **IoT Hydroponic Nutrient Control** | Automated nutrient monitoring for smart farming |
-| **Smart Lighthouse Monitoring** | AI-powered monitoring system for maritime safety |
+### AI-based Energy Management System  
+**04/2024 - 11/2024** | *Future Internet LAB*  
+*Organized by: Busan Techno Park*  
+- 🛠️ Developed an energy usage optimization and peak management solution for offices and factories using AI and big data.  
+
+### Smart Alarm  
+**01/2024 - 03/2024** | *Future Internet LAB*  
+*Organized by: Pukyong National University*  
+- ⏰ Created a real-time customized alarm solution leveraging water surface detection and automation technology.  
+
+### Smart Navigational Aid Monitoring System  
+**10/2023 - 12/2023** | *Future Internet LAB*  
+*Organized by: Dongwon Academic Research Foundation*  
+- 📡 Built a smart system for real-time monitoring of navigational aids using AI and IoT.  
+
+### IoT Nutrient Solution Control for Hydroponics  
+**10/2022 - 01/2023** | *Future Internet LAB*  
+*Organized by: National Research Foundation of Korea*  
+- 🌱 Designed a smart agricultural system to automatically control nutrient solutions for hydroponics using IoT.  
+
+### Mobile Content Delivery Network  
+**06/2022 - 08/2022** | *Future Internet LAB*  
+*Organized by: National Research Foundation of Korea*  
+- 📱 Engineered a technique to enhance data transmission efficiency in mobile networks.  
+
+---
+
+*Updated: March 08, 2025*
+
 
 ---
 
