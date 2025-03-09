@@ -7,6 +7,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-ilyos_numon-181717?style=for-the-badge&logo=github)](https://github.com/ilyosbek97)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Research-green?style=for-the-badge&logo=googlescholar)](https://scholar.google.com/citations?user=IlyosbekNumonov)
 
+[<img src="https://static.licdn.com/sc/h/95ifirc1ka4w39ezsps8p3rbr" alt="LinkedIn" height="20">](https://www.linkedin.com/in/ilyosbek-numonov) [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="20">](https://github.com/ilyosbek97) [<img src="https://scholar.google.com/citations/images/citation_icon.png" alt="Google Scholar" height="20">](https://scholar.google.com/citations?user=IlyosbekNumonov)
+
 - 
 ![Profile Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=50&lines=Code+works,+don’t+touch.;Bugs+breed+in+silence.;Coffee+fuels+my+commits.;Documentation?+What’s+that+again?;LLM+saves+me.;Indentation+broke+my+soul.;Git+blame,+not+me.;Works+locally,+ship+it!;Deadline?+Rewrite+in+chaos.;Error+404:+Sanity+gone.)
 </div>
