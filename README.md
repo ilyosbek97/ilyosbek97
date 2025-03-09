@@ -1,131 +1,97 @@
-# 🚀 Ilyosbek Numonov (일리) | AI & IoT Innovator  
+# 🚀 ILYOSBEK NUMONOV (일리)  
+### AI & IoT Engineer | Researcher | ICT Manager  
 
-![Profile Banner](https://img.shields.io/badge/Welcome_to_My_GitHub-Explore_My_World-blueviolet?style=for-the-badge&color=ff69b4&logo=github)  
-*Updated as of March 08, 2025*  
-
----
-
-## 👨‍💻 About Me  
-**AI & IoT Engineer | Researcher | ICT Manager**  
-📍 **Busan, South Korea**  
-📧 **[ilyosbek.uzb@gmail.com](mailto:ilyosbek.uzb@gmail.com)**  
-🌐 **[LinkedIn](https://www.linkedin.com/in/ilyosbek-numonov)** | **[Google Scholar](https://scholar.google.com/citations?user=IlyosbekNumonov)** | **[GitHub](https://github.com/ilyos_numon)**  
-
-I’m an ambitious innovator blending **Artificial Intelligence** and **Internet of Things (IoT)** to solve real-world challenges—think energy optimization, smart agriculture, and intelligent monitoring systems! With a passion for research and a knack for automation, I’ve contributed to government and private projects, published impactful papers, and mentored the next generation of tech enthusiasts.
+📧 ilyosbek.uzb@gmail.com  
+🐙 [GitHub](https://github.com/ilyos-numon)  
+📍 Busan, South Korea  
 
 ---
 
-## 🌟 Summary  
-![Summary Badge](https://img.shields.io/badge/AI_%26_IoT_Research-Driven_Solutions-orange?style=flat-square&logo=python)  
-- **Experience**: Leading IoT & AI projects for energy efficiency, automation, and smart systems.  
-- **Korean Proficiency**: TOPIK 6 (Highest Level).  
-- **Mentorship**: SW-Centric University Mentor at Pukyong National University.  
-- **Research**: Published in KCI, SCIE, and international conferences.  
-- **Projects**: From hydroponics automation to factory energy management—my work powers the future!  
+## 🌟 About Me  
+A passionate AI & IoT Engineer with hands-on experience in government and private research projects. Focused on data-driven automation, AI convergence technologies, and energy-saving solutions. A TOPIK Level 6 Korean speaker with strong leadership experience in multiple organizations.
+
+![Profile Animation](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)  
 
 ---
 
 ## 🎓 Education  
-**M.S. in Artificial Intelligence Convergence Engineering**  
-*GPA: 4.4/4.5* | Pukyong National University (국립부경대학교)  
-*09/2023 - Ongoing*  
-
-**B.S. in Computer Science**  
-*GPA: 3.3/4.5* | Pukyong National University (국립부경대학교)  
-*09/2018 - 08/2023*  
+📌 **Master of Science in AI Convergence Engineering** (2023 - Present)  
+📌 **Bachelor of Science in Computer Science** (2018 - 2023)  
+📌 **University:** Pukyong National University (국립부경대학교)  
 
 ---
 
-## 📑 Research Results  
-![Research Badge](https://img.shields.io/badge/Publications-KCI_%7C_SCIE_%7C_Conferences-brightgreen?style=flat-square&logo=arxiv)  
-
-1. **공장 전력 절감을 위한 인공지능 기반의 에너지 관리 시스템 개발** (KCI)  
-   *Journal of IoT Convergence, 2024* | [Link](#)  
-2. **Optimizing Models and Data Denoising Algorithms for Power Load Forecasting** (SCIE)  
-   *Energies, 2024* | [Link](#)  
-3. **IoT 기반의 스마트 알람 시스템** (KCI)  
-   *Journal of IoT Convergence, 2024* | [Link](#)  
-4. **사물인터넷 기반의 수경재배 시스템 구현** (KCI)  
-   *Journal of IoT Convergence, 2023* | [Link](#)  
-5. **Research on AI-based Factory Energy Management System** (Conference)  
-   *9th I.C. on IoT and Convergence, 2024* | [Link](#)  
-
-*Explore more on [Google Scholar](https://scholar.google.com/citations?user=IlyosbekNumonov)!*
+## 🔬 Research & Publications  
+📖 [Google Scholar Profile](https://scholar.google.com/citations?user=xxxxxx)  
+📌 AI-based Energy Management System for Factory Power Reduction  
+📌 Optimizing Models & Data Denoising for Power Load Forecasting  
+📌 IoT-based Smart Alarm System  
+📌 Smart Hydroponic Nutrient Control System  
+📌 UAV Collaborative Path Planning Optimization  
 
 ---
 
-## 🛠️ Projects  
-![Projects Badge](https://img.shields.io/badge/Innovative_Solutions-IoT_%26_AI-red?style=flat-square&logo=raspberrypi)  
-
-- **AI 기반 에너지 관리 시스템** | *04/2024 - 11/2024*  
-  Optimized energy use in offices and factories using AI and big data.  
-- **스마트 알람** | *01/2024 - 03/2024*  
-  Personalized alarm system with sleep tracking and automation.  
-- **스마트 항로표지 모니터링 시스템** | *10/2023 - 12/2023*  
-  Real-time maritime navigation monitoring with AI/IoT.  
-- **수경재배 IoT 양액제어** | *10/2022 - 01/2023*  
-  Automated nutrient control for smart hydroponics.  
-- **모바일 콘텐츠 전송 네트워크** | *06/2022 - 08/2022*  
-  Efficient mobile data transmission techniques.  
+## 💡 Projects  
+🔹 **AI-based Energy Management System** (2024)  
+🔹 **Smart Alarm System** (2024)  
+🔹 **Smart Lighthouse Monitoring System** (2023)  
+🔹 **IoT Hydroponic Nutrient Control** (2023)  
+🔹 **Mobile Content Delivery Optimization** (2022)  
 
 ---
 
-## 💼 Experience  
-**IoT & AI Researcher** | *Pukyong National University*  
-*04/2022 - Ongoing* | Busan, South Korea  
-- Delivered impactful research in automation, energy solutions, and AI convergence.  
-- Mentored students in SW-centric university projects.  
+## 💻 Skills  
+### **Programming**  
+🔹 Python | C | C++ | JavaScript  
 
-**Purchasing Team Leader (Remote)** | *Global Tech*  
-*09/2024 - Ongoing* | Suwon, South Korea  
-- Managed import/export automation between Uzbekistan and Korea.  
+### **IoT & Embedded Systems**  
+🔹 Raspberry Pi | Arduino | MQTT | Bluetooth | LoRa  
 
-**HR Manager** | *Busan Muslim Students Association*  
-*03/2024 - Ongoing* | Busan, South Korea  
-- Fostered an inclusive community for Muslim students in Korea.  
+### **AI & Data Science**  
+🔹 LSTM | YOLOv6 | AutoML | Data Analysis | TensorFlow  
 
----
+### **Databases & Visualization**  
+🔹 MongoDB | Pandas | Matplotlib | Seaborn | Plotly  
 
-## 🛠️ Skills  
-![Skills Badge](https://img.shields.io/badge/Tech_Stack-Powerful_%26_Diverse-blue?style=flat-square&logo=code)  
-
-| **Category**       | **Tools & Technologies**                     |  
-|---------------------|---------------------------------------------|  
-| **General**        | Python, C, C++                              |  
-| **IoT Systems**    | Raspberry Pi, Arduino, LTE-M, MQTT, Bluetooth |  
-| **AI/ML/DL**       | LSTM, YOLOv6, Time Series, AutoML          |  
-| **Data Analysis**  | MongoDB, Pandas, NumPy, Matplotlib, Seaborn |  
-| **Web & API**      | FastAPI, Flask, AWS                        |  
-| **R&D**            | Research, Development, Analysis            |  
+### **Web & API Development**  
+🔹 FastAPI | Flask | AWS | React.js  
 
 ---
 
-## 🌐 Languages  
-![Languages Badge](https://img.shields.io/badge/Multilingual-Uzbek_%7C_Korean_%7C_English-yellow?style=flat-square&logo=translate)  
-- **Uzbek**: Native  
-- **Korean**: TOPIK 6 (Fluent)  
-- **English**: Professional Proficiency  
+## 🌍 Experience  
+🔹 **IoT & AI Researcher** @ Pukyong National University (2022 - Present)  
+🔹 **Purchasing Team Leader** @ Global Tech (2024 - Present)  
+🔹 **HR Manager** @ Busan Muslim Students Association (2024 - Present)  
+🔹 **President** @ Busan Uzbek Students Association (2024)  
+🔹 **Finance Manager** @ Busan Uzbek Students Association (2024 - Present)  
 
 ---
 
 ## 🏆 Awards & Certifications  
-- **TOPIK 6** | *04/2023 - 08/2025*  
-- **Legal Interpreter** | *Korean Qualification Association*  
-- **Speaking Contest Excellence Award** | *2024 Korean Culture Festival*  
-- **Best Paper Award** | *2024 Korea IoT Conference*  
+🏅 **TOPIK 6 (Highest Level)**  
+🏅 **Legal Interpreter Certification (Korea Qualification Association)**  
+🏅 **1st Place - ZAKOVAT Quiz Show (2023)**  
+🏅 **Outstanding Paper Award - IoT Conference (2024)**  
+🏅 **Best Idea Award - PKNU SW Contest (2022)**  
 
 ---
 
-## 🎉 Fun Facts  
-- **Hobbies**: Chess ♟️, Table Tennis 🏓, Reading 📚  
-- **Volunteering**: 97+ hours at 1365 Volunteer Portal  
+## 🌏 Volunteering & Community Involvement  
+❤️ **Volunteer at 1365 Portal (97+ hours)**  
+❤️ **AURGI 5th Generation - Korean Cultural Exchange Program**  
+❤️ **Mentor at Pukyong National University International Exchange Department**  
 
 ---
 
-## 📬 Find Me Online  
-![Connect Badge](https://img.shields.io/badge/Let’s_Connect!-Follow_Me-00C4B4?style=for-the-badge&logo=github)  
-- **[GitHub](https://github.com/ilyos_numon)**  
-- **[LinkedIn](https://www.linkedin.com/in/ilyosbek-numonov)**  
-- **[Google Scholar](https://scholar.google.com/citations?user=IlyosbekNumonov)**  
+## 🎭 Hobbies & Interests  
+♟️ Chess  
+🏓 Table Tennis  
+📚 Reading  
+🌍 Traveling  
 
 ---
+
+## 📌 Find Me Online  
+🔗 [LinkedIn](https://linkedin.com/in/ilyosbek-numonov)  
+🔗 [GitHub](https://github.com/ilyos-numon)  
+🔗 [Google Scholar](https://scholar.google.com/citations?user=xxxxxx)  
