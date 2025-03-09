@@ -129,5 +129,3 @@ I’m an ambitious innovator blending **Artificial Intelligence** and **Internet
 - **[Google Scholar](https://scholar.google.com/citations?user=IlyosbekNumonov)**  
 
 ---
-
-![Animated Footer](https://img.shields.io/badge/Powered_by_Grok_3-xAI-FF5733?style=for-the-badge&logo=ai)
