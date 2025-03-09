@@ -4,12 +4,16 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> AI & IoT Engineer | Researcher | ICT Manager
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ilyosbek-numonov)
-[![GitHub](https://img.shields.io/badge/GitHub-ilyos_numon-181717?style=for-the-badge&logo=github)](https://github.com/ilyosbek97)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Research-green?style=for-the-badge&logo=googlescholar)](https://scholar.google.com/citations?user=IlyosbekNumonov)
 
-[LinkedIn](https://www.linkedin.com/in/ilyosbek-numonov)  
-[GitHub](https://github.com/ilyosbek97)  
-[Google Scholar](https://scholar.google.com/citations?user=IlyosbekNumonov)
+<p align="center">
+    <a href="https://www.linkedin.com/in/ilyosbek-numonov" target="_blank">LinkedIn</a>
+    ·
+    <a href="https://google.com" target="_blank">Portfolio</a>
+    ·
+    <a href="https://scholar.google.com/citations?user=IlyosbekNumonov" target="_blank">Google Scholar</a>
+</p>
+
 
 - 
 ![Profile Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=50&lines=Code+works,+don’t+touch.;Bugs+breed+in+silence.;Coffee+fuels+my+commits.;Documentation?+What’s+that+again?;LLM+saves+me.;Indentation+broke+my+soul.;Git+blame,+not+me.;Works+locally,+ship+it!;Deadline?+Rewrite+in+chaos.;Error+404:+Sanity+gone.)
