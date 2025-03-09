@@ -30,9 +30,6 @@ Hello! I'm an AI enthusiast and innovator with a passion for technology and rese
   - Fluent: Korean [(**TOPIK Level 6**)](https://www.topik.go.kr/)  
   - Intermediate: English  [(**TOEIC**)](https://www.toeic.co.kr/)  
 
-- 🏆 **Award-Winning Innovator**  
-  Recognized for contributions in AI & IoT  
-
 - 🤝 **Community Leader & Mentor**  
   Active in:  
   - [BUSA](https://instagram.com/busa_uzb)  
@@ -40,45 +37,16 @@ Hello! I'm an AI enthusiast and innovator with a passion for technology and rese
 ---
 
 ## 🛠️ Tech Stack
-### ⚙️ General Programming
-- [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-- [![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-- [![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+| ⚙️ General | 🌐 IoT Systems | 🤖 AI/ML/DL | 📊 Data Analysis | 🌍 Web & API | 🔬 R&D |
+|------------|----------------|-------------|------------------|--------------|--------|
+| [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) | [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.org/) | ![LSTM](https://img.shields.io/badge/LSTM-Deep%20Learning-orange) | [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/) | [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) | ![Research](https://img.shields.io/badge/Research-Innovation-FFD700) |
+| [![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) | [![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)](https://www.arduino.cc/) | ![ARIMA](https://img.shields.io/badge/ARIMA-Time%20Series-blue) | [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)](https://matplotlib.org/) | [![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)](https://flask.palletsprojects.com/) | ![Develop](https://img.shields.io/badge/Develop-Build-32CD32) |
+| [![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/) | ![LTE-M](https://img.shields.io/badge/LTE--M-4G-blue) | ![SARIMA](https://img.shields.io/badge/SARIMA-Time%20Series-blue) | [![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=python&logoColor=white)](https://seaborn.pydata.org/) | [![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) | ![Analyze](https://img.shields.io/badge/Analyze-Insights-4682B4) |
+|  | [![MQTT](https://img.shields.io/badge/MQTT-660066?logo=mqtt&logoColor=white)](https://mqtt.org/) | ![Prophet](https://img.shields.io/badge/Prophet-Forecasting-00A1D6) | [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)](https://plotly.com/) |  |  |
+|  | [![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?logo=bluetooth&logoColor=white)](https://www.bluetooth.com/) | ![Time Series](https://img.shields.io/badge/Time%20Series-Analysis-007ACC) | [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/) |  |  |
+|  |  | ![Stats](https://img.shields.io/badge/Statistical%20Analysis-228B22) | [![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org/) |  |  |
+|  |  | ![AutoML](https://img.shields.io/badge/AutoML-Automation-FF6F61) | [![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)](https://scipy.org/) |  |  |
 
-### 🌐 IoT Systems
-- [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.org/)
-- [![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)](https://www.arduino.cc/)
-- ![LTE-M](https://img.shields.io/badge/LTE--M-4G-blue)
-- [![MQTT](https://img.shields.io/badge/MQTT-660066?logo=mqtt&logoColor=white)](https://mqtt.org/)
-- [![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?logo=bluetooth&logoColor=white)](https://www.bluetooth.com/)
-
-### 🤖 AI/ML/DL
-- ![LSTM](https://img.shields.io/badge/LSTM-Deep%20Learning-orange)
-- ![ARIMA](https://img.shields.io/badge/ARIMA-Time%20Series-blue)
-- ![SARIMA](https://img.shields.io/badge/SARIMA-Time%20Series-blue)
-- ![Prophet](https://img.shields.io/badge/Prophet-Forecasting-00A1D6)
-- ![Time Series](https://img.shields.io/badge/Time%20Series-Analysis-007ACC)
-- ![Stats](https://img.shields.io/badge/Statistical%20Analysis-228B22)
-- ![AutoML](https://img.shields.io/badge/AutoML-Automation-FF6F61)
-
-### 📊 Data Analysis
-- [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-- [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)](https://matplotlib.org/)
-- [![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=python&logoColor=white)](https://seaborn.pydata.org/)
-- [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)](https://plotly.com/)
-- [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-- [![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org/)
-- [![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)](https://scipy.org/)
-
-### 🌍 Web & API
-- [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-- [![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-- [![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-
-### 🔬 R&D
-- ![Research](https://img.shields.io/badge/Research-Innovation-FFD700)
-- ![Develop](https://img.shields.io/badge/Develop-Build-32CD32)
-- ![Analyze](https://img.shields.io/badge/Analyze-Insights-4682B4)
 
 ---
 
