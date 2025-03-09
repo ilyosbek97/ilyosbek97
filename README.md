@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🚀 ILYOSBEK(일리)
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> AI & IoT Engineer | Researcher | ICT Manager
+# ILYOSBEK(일리)
+###  AI & IoT Engineer | Researcher | ICT Manager
 
 <p align="center">
     <a href="https://www.linkedin.com/in/ilyosbek-numonov" target="_blank">LinkedIn</a>
