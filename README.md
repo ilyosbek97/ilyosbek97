@@ -32,8 +32,8 @@ Hello! I'm [Your Name], an AI enthusiast and innovator with a passion for techno
 
 - 🌍 **Multilingual Communicator**  
   - Native: Uzbek  
-  - Fluent: Korean [(**TOPIK Level 6**](https://www.topik.go.kr/)  
-  - Intermediate: English  (**TOEIC**) [TOEIC Info](https://www.toeic.co.kr/)  
+  - Fluent: Korean [(**TOPIK Level 6**)](https://www.topik.go.kr/)  
+  - Intermediate: English  [(**TOEIC**)](https://www.toeic.co.kr/)  
 
 - 🏆 **Award-Winning Innovator**  
   Recognized for contributions in AI & IoT  
@@ -42,32 +42,48 @@ Hello! I'm [Your Name], an AI enthusiast and innovator with a passion for techno
   Active in:  
   - [BUSA](https://instagram.com/busa_uzb)  
   - BMSA  
-  - Global Tech
-
 ---
 
 ## 🛠️ Tech Stack
+### ⚙️ General Programming
+- 🐍 **[Python](https://www.python.org/)** - My go-to for versatility and power  
+- 🌐 **[C](https://en.wikipedia.org/wiki/C_(programming_language))** - Low-level mastery  
+- ➕ **[C++](https://isocpp.org/)** - Performance-driven solutions  
 
-### 🤖 AI/ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LSTM](https://img.shields.io/badge/LSTM-EE4C2C?style=for-the-badge&logo=keras&logoColor=white)
+### 🌐 IoT Systems
+- 🍓 **[Raspberry Pi](https://www.raspberrypi.org/)** - Compact computing for IoT  
+- 🔌 **[Arduino](https://www.arduino.cc/)** - Microcontroller magic  
+- 📡 **LTE-M** - Cellular connectivity for IoT  
+- 📨 **[MQTT](https://mqtt.org/)** - Lightweight messaging protocol  
+- 📶 **Bluetooth** - Short-range wireless wonders  
 
-### 🌐 IoT
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
+### 🤖 AI/ML/DL
+- ⏳ **LSTM** - Long Short-Term Memory for sequences  
+- 📈 **ARIMA, SARIMA, Prophet** - Time series forecasting  
+- ⏱️ **Time Series Data Analysis** - Unlocking temporal insights  
+- 📊 **Statistical Analysis** - Data-driven decision making  
+- ⚙️ **AutoML** - Automating machine learning workflows  
 
-### 📊 Data Science
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 📊 Data Analysis
+- 🗄️ **[MongoDB](https://www.mongodb.com/)** - NoSQL database for flexibility  
+- 📉 **[Matplotlib](https://matplotlib.org/)** - Classic data visualization  
+- 🎨 **[Seaborn](https://seaborn.pydata.org/)** - Beautiful statistical plots  
+- ✨ **[Plotly](https://plotly.com/)** - Interactive graphing  
+- 🐼 **[Pandas](https://pandas.pydata.org/)** - Data manipulation powerhouse  
+- 🔢 **[NumPy](https://numpy.org/)** - Numerical computing backbone  
+- 🧬 **[SciPy](https://scipy.org/)** - Scientific computing toolkit  
 
-### 🌍 Web & API Development
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+### 🌍 Web & API
+- 🚀 **[FastAPI](https://fastapi.tiangolo.com/)** - High-performance APIs  
+- 🍶 **[Flask](https://flask.palletsprojects.com/)** - Lightweight web frameworks  
+- ☁️ **[AWS](https://aws.amazon.com/)** - Cloud computing excellence  
 
+### 🔬 R&D
+- 📝 **Research** - Exploring the unknown  
+- 🛠️ **Develop** - Building innovative solutions  
+- 🔍 **Analyze** - Turning data into insights  
+
+---
 ---
 
 ## 🔬 Research & Publications
