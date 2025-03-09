@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 ILYOSBEK NUMONOV (일리)
+# 🚀 ILYOSBEK(일리)
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> AI & IoT Engineer | Researcher | ICT Manager
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ilyosbek-numonov)
@@ -14,22 +14,19 @@
 ---
 ## 🌟 About Me
 
-Hello! I'm [Ilyosbek(일리), an AI enthusiast and innovator with a passion for technology and research. Here's a bit about me:
+Hello! I'm an AI enthusiast and innovator with a passion for technology and research. Here's a bit about me:
 
-- 🎓 **M.S. in AI Convergence Engineering**  
+- 🎓 [**M.S. in AI Convergence Engineering**](https://ai_conv.pknu.ac.kr/)
   Pukyong National University (GPA: 4.4/4.5)  
-  [Learn more about the program](https://ai_conv.pknu.ac.kr/)
 
-- 🎓 **B.S. in Computer Science**  
+- 🎓 [**B.S. in Computer Science**](https://ce.pknu.ac.kr/ce/1)
   Pukyong National University (GPA: 3.3/4.5)  
-  [Explore the department](https://ce.pknu.ac.kr/ce/1)
-
-- 🔥 **Research Enthusiast**  
+  
+- 🔥 [**Research Enthusiast**](https://scholar.google.com/citations?user=qm7GpqUAAAAJ&hl=en)
   8+ publications in KCI/SCIE-indexed journals  
-  [Check out my work on Google Scholar](https://scholar.google.com/citations?user=qm7GpqUAAAAJ&hl=en)
 
 - 🌍 **Multilingual Communicator**  
-  - Native: Uzbek  
+  - Native: Uzbek [:)](https://www.google.com/search?q=uzbekistam&oq=uzbekistam&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQLhgKGIAEMg8IAhAuGAoYxwEY0QMYgAQyCQgDEAAYChiABDIPCAQQLhgKGK8BGMcBGIAEMgkIBRAAGAoYgAQyCQgGEAAYChiABDIJCAcQABgKGIAEMgkICBAAGAoYgATSAQg0MzI3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
   - Fluent: Korean [(**TOPIK Level 6**)](https://www.topik.go.kr/)  
   - Intermediate: English  [(**TOEIC**)](https://www.toeic.co.kr/)  
 
