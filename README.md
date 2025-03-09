@@ -7,20 +7,42 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ilyosbek-numonov)
 [![GitHub](https://img.shields.io/badge/GitHub-ilyos_numon-181717?style=for-the-badge&logo=github)](https://github.com/ilyosbek97)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Research-green?style=for-the-badge&logo=googlescholar)](https://scholar.google.com/citations?user=IlyosbekNumonov)
-[![Visitors](https://komarev.com/ghpvc/?username=ilyosbek-numonov&color=orange&style=for-the-badge)](https://github.com/ilyosbek-numonov)
+[![Visitors](https://komarev.com/ghpvc/?username=ilyosbek-numonov&color=orange&style=for-the-badge)](https://github.com/ilyosbek97)
 
-![Profile Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=50&lines=Building+Intelligent+Systems;AI+Alchemist+%7C+IoT+Architect+%7C+Research+Visionary;Innovating+for+a+Smarter+Future)
+![Profile Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=50&lines=Building+Intelligent+Systems;Innovating+for+a+Smarter+Future)
 
 </div>
 
 ---
-
 ## 🌟 About Me
-- 🎓 **M.S. in AI Convergence Engineering** @ Pukyong National University (GPA: 4.4/4.5)
-- 🔥 **8+ Research Publications** (KCI/SCIE)
-- 🌍 **TOPIK Level 6** | Uzbek-Korean-English Polyglot
-- 🏆 **Award-Winning Innovator** in AI & IoT
-- 🤝 **Community Leader & Mentor** (BUSA, BMSA, Global Tech)
+
+Hello! I'm [Your Name], an AI enthusiast and innovator with a passion for technology and research. Here's a bit about me:
+
+- 🎓 **M.S. in AI Convergence Engineering**  
+  Pukyong National University (GPA: 4.4/4.5)  
+  [Learn more about the program](https://ai_conv.pknu.ac.kr/)
+
+- 🎓 **B.S. in Computer Science**  
+  Pukyong National University (GPA: 3.3/4.5)  
+  [Explore the department](https://ce.pknu.ac.kr/ce/1)
+
+- 🔥 **Research Enthusiast**  
+  8+ publications in KCI/SCIE-indexed journals  
+  [Check out my work on Google Scholar](https://scholar.google.com/citations?user=qm7GpqUAAAAJ&hl=en)
+
+- 🌍 **Multilingual Communicator**  
+  - Native: Uzbek  
+  - Fluent: Korean (**TOPIK Level 6**) [TOPIK Info](https://www.topik.go.kr/)  
+  - Intermediate: English  
+
+- 🏆 **Award-Winning Innovator**  
+  Recognized for contributions in AI & IoT  
+
+- 🤝 **Community Leader & Mentor**  
+  Active in:  
+  - [BUSA](https://instagram.com/busa_uzb)  
+  - BMSA  
+  - Global Tech
 
 ---
 
