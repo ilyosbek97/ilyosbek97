@@ -16,13 +16,13 @@
 
 Hello! I'm an AI enthusiast and innovator with a passion for technology and research. Here's a bit about me:
 
-- 🎓 [**M.S. in AI Convergence Engineering**](https://ai_conv.pknu.ac.kr/)
+- 🎓 [**M.S. in AI Convergence Engineering**](https://ai_conv.pknu.ac.kr/)  
   Pukyong National University (GPA: 4.4/4.5)  
 
-- 🎓 [**B.S. in Computer Science**](https://ce.pknu.ac.kr/ce/1)
+- 🎓 [**B.S. in Computer Science**](https://ce.pknu.ac.kr/ce/1)  
   Pukyong National University (GPA: 3.3/4.5)  
   
-- 🔥 [**Research Enthusiast**](https://scholar.google.com/citations?user=qm7GpqUAAAAJ&hl=en)
+- 🔥 [**Research Enthusiast**](https://scholar.google.com/citations?user=qm7GpqUAAAAJ&hl=en)  
   8+ publications in KCI/SCIE-indexed journals  
 
 - 🌍 **Multilingual Communicator**  
