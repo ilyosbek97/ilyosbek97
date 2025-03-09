@@ -14,7 +14,7 @@
 ---
 ## 🌟 About Me
 
-Hello! I'm [Ilyosbek(일리)], an AI enthusiast and innovator with a passion for technology and research. Here's a bit about me:
+Hello! I'm [Ilyosbek(일리), an AI enthusiast and innovator with a passion for technology and research. Here's a bit about me:
 
 - 🎓 **M.S. in AI Convergence Engineering**  
   Pukyong National University (GPA: 4.4/4.5)  
@@ -44,43 +44,44 @@ Hello! I'm [Ilyosbek(일리)], an AI enthusiast and innovator with a passion for
 
 ## 🛠️ Tech Stack
 ### ⚙️ General Programming
-- [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) - Versatile and powerful  
-- [![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) - Low-level control  
-- [![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/) - High-performance coding  
+- [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+- [![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+- [![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 
 ### 🌐 IoT Systems
-- [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.org/) - IoT prototyping  
-- [![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)](https://www.arduino.cc/) - Microcontroller projects  
-- ![LTE-M](https://img.shields.io/badge/LTE--M-4G-blue) - Cellular IoT connectivity  
-- [![MQTT](https://img.shields.io/badge/MQTT-660066?logo=mqtt&logoColor=white)](https://mqtt.org/) - Lightweight messaging  
-- [![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?logo=bluetooth&logoColor=white)](https://www.bluetooth.com/) - Wireless communication  
+- [![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.org/)
+- [![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)](https://www.arduino.cc/)
+- ![LTE-M](https://img.shields.io/badge/LTE--M-4G-blue)
+- [![MQTT](https://img.shields.io/badge/MQTT-660066?logo=mqtt&logoColor=white)](https://mqtt.org/)
+- [![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?logo=bluetooth&logoColor=white)](https://www.bluetooth.com/)
 
 ### 🤖 AI/ML/DL
-- ![LSTM](https://img.shields.io/badge/LSTM-Deep%20Learning-orange) - Sequence modeling  
-- ![ARIMA](https://img.shields.io/badge/ARIMA-Time%20Series-blue) | ![SARIMA](https://img.shields.io/badge/SARIMA-Time%20Series-blue) | ![Prophet](https://img.shields.io/badge/Prophet-Forecasting-00A1D6) - Time series forecasting  
-- ![Time Series](https://img.shields.io/badge/Time%20Series-Analysis-007ACC) - Temporal data insights  
-- ![Stats](https://img.shields.io/badge/Statistical%20Analysis-228B22) - Data-driven decisions  
-- ![AutoML](https://img.shields.io/badge/AutoML-Automation-FF6F61) - Streamlined ML workflows  
+- ![LSTM](https://img.shields.io/badge/LSTM-Deep%20Learning-orange)
+- ![ARIMA](https://img.shields.io/badge/ARIMA-Time%20Series-blue)
+- ![SARIMA](https://img.shields.io/badge/SARIMA-Time%20Series-blue)
+- ![Prophet](https://img.shields.io/badge/Prophet-Forecasting-00A1D6)
+- ![Time Series](https://img.shields.io/badge/Time%20Series-Analysis-007ACC)
+- ![Stats](https://img.shields.io/badge/Statistical%20Analysis-228B22)
+- ![AutoML](https://img.shields.io/badge/AutoML-Automation-FF6F61)
 
 ### 📊 Data Analysis
-- [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/) - NoSQL database  
-- [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)](https://matplotlib.org/) - Data visualization  
-- [![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=python&logoColor=white)](https://seaborn.pydata.org/) - Statistical plots  
-- [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)](https://plotly.com/) - Interactive charts  
-- [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/) - Data manipulation  
-- [![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org/) - Numerical computing  
-- [![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)](https://scipy.org/) - Scientific tools  
+- [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+- [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)](https://matplotlib.org/)
+- [![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=python&logoColor=white)](https://seaborn.pydata.org/)
+- [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)](https://plotly.com/)
+- [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+- [![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org/)
+- [![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)](https://scipy.org/)
 
 ### 🌍 Web & API
-- [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) - Modern API development  
-- [![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)](https://flask.palletsprojects.com/) - Lightweight web apps  
-- [![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) - Cloud solutions  
+- [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+- [![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+- [![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 
 ### 🔬 R&D
-- ![Research](https://img.shields.io/badge/Research-Innovation-FFD700) - Exploring new frontiers  
-- ![Develop](https://img.shields.io/badge/Develop-Build-32CD32) - Crafting solutions  
-- ![Analyze](https://img.shields.io/badge/Analyze-Insights-4682B4) - Data to decisions  
-
+- ![Research](https://img.shields.io/badge/Research-Innovation-FFD700)
+- ![Develop](https://img.shields.io/badge/Develop-Build-32CD32)
+- ![Analyze](https://img.shields.io/badge/Analyze-Insights-4682B4)
 ---
 
 ---
