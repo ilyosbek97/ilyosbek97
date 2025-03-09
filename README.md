@@ -110,9 +110,3 @@ Hello! I'm an AI enthusiast and innovator with a passion for technology and rese
 ❤️ **Mentor at Pukyong National University**  
 
 ---
-
-## 📭 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ilyosbek-numonov)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/ilyos-numon)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Research-green?style=for-the-badge&logo=googlescholar)](https://scholar.google.com/citations?user=IlyosbekNumonov)
