@@ -1,3 +1,5 @@
+![My Profile Picture](my_profile_pic_v1.png)
+
 <div align="center">
 
 <div align="center">
