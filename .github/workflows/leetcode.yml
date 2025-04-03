@@ -2,7 +2,7 @@ name: Update LeetCode Stats
 
 on:
   schedule:
-    - cron: '*/10 * * * *'  # 10분마다 실행
+    - cron: '* * * * *'  # 1분마다 실행
   workflow_dispatch:
 
 jobs:
@@ -22,7 +22,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions@users.noreply.github.com"
-          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/ilyosbek97/ilyosbek97.git
+          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/ilyosbek97/README.md.git
           git add leetcode.png
           git commit -m "Updated LeetCode graph" || exit 0
           git push origin main || exit 0
