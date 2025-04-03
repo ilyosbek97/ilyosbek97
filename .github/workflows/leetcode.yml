@@ -2,24 +2,26 @@ name: Update LeetCode Stats
 
 on:
   schedule:
-    - cron: '0 */1 * * *'  # Runs every 6 hours
+    - cron: '* * * * *'  # 1분마다 실행
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
+      - name: 저장소 가져오기
         uses: actions/checkout@v3
 
-      - name: Fetch LeetCode Stats
+      - name: LeetCode 그래프 다운로드
         run: |
-          curl -o leetcode.png "https://leetcard.jacoblin.cool/ilyosbek_numonov?theme=dark&ext=heatmap"
+          curl -o leetcode.png "https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&ext=heatmap"
 
-      - name: Commit and Push Changes
+      - name: Git 설정 및 푸시
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions@users.noreply.github.com"
           git add leetcode.png
-          git commit -m "Updated LeetCode graph"
-          git push
+          git commit -m "Updated LeetCode graph" || exit 0
+          git push https://x-access-token:${GH_PAT}@github.com/ilyosbek97/ilyosbek97.git main || exit 0
