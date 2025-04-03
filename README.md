@@ -112,3 +112,4 @@ Hello! I'm an AI enthusiast and innovator with a passion for technology and rese
 ❤️ **Mentor at Pukyong National University**  
 
 ---
+![LeetCode Stats](https://leetcard.jacoblin.cool/ilyosbek_numonov?theme=dark&font=Montserrat&ext=heatmap)
