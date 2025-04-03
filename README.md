@@ -113,3 +113,7 @@ Hello! I'm an AI enthusiast and innovator with a passion for technology and rese
 
 ---
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ilyosbek_numonov?theme=dark&font=Montserrat&ext=heatmap)
+
+---
+![LeetCode Submission Graph](leetcode.png)
+
