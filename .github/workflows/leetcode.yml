@@ -1,0 +1,25 @@
+name: Update LeetCode Stats
+
+on:
+  schedule:
+    - cron: '0 */1 * * *'  # Runs every 6 hours
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Fetch LeetCode Stats
+        run: |
+          curl -o leetcode.png "https://leetcard.jacoblin.cool/ilyosbek_numonov?theme=dark&ext=heatmap"
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions@users.noreply.github.com"
+          git add leetcode.png
+          git commit -m "Updated LeetCode graph"
+          git push
