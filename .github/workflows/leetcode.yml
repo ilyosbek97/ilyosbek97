@@ -2,7 +2,7 @@
 
 name: Update LeetCode Stats
 
-on:
+111111111111111on:
   schedule:
     - cron: '* * * * *'  # 1분마다 실행
   workflow_dispatch:
