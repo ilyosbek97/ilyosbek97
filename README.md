@@ -7,7 +7,7 @@
 </div>
 
 # ILYOSBEK(일리)
-###  AI & IoT Engineer | Researcher | ICT Manager
+###  AI & IoT Engineer | Researcher
 
 <p align="center">
     <a href="https://www.linkedin.com/in/ilyosbek-numonov" target="_blank">LinkedIn</a>
