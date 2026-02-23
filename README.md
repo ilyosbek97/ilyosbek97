@@ -1,4 +1,4 @@
-![My Profile Picture](my_profile_pic_v1.png)
+![My Profile Picture](banner.png)
 
 <div align="center">
 
